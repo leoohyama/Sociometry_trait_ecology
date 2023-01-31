@@ -1,0 +1,415 @@
+#NEXUS
+[R-package APE, Fri Mar 25 16:14:54 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 201;
+	TAXLABELS
+		Stigmatomma_pallipes
+		Prionopelta_amabilis
+		Discothyrea_testacea
+		Proceratium_silaceum
+		Proceratium_avium
+		Platythyrea_punctata
+		Hypoponera_punctatissima
+		Hypoponera_opaciceps
+		Hypoponera_inexorata
+		Hypoponera_opacior
+		Cryptopone_gilva
+		Pseudoponera_stigma
+		Ponera_exotica
+		Ponera_pennsylvanica
+		Leptogenys_diminuta
+		Brachyponera_obscurans
+		Brachyponera_chinensis
+		Anochetus_mayri
+		Odontomachus_ruginodis
+		Odontomachus_relictus
+		Odontomachus_brunneus
+		Odontomachus_haematodus
+		Neivamyrmex_texanus
+		Neivamyrmex_opacithorax
+		Neivamyrmex_nigrescens
+		Pseudomyrmex_gracilis
+		Pseudomyrmex_cubaensis
+		Pseudomyrmex_elongatus
+		Pseudomyrmex_simplex
+		Pseudomyrmex_ejectus
+		Pseudomyrmex_seminole
+		Pseudomyrmex_pallidus
+		Linepithema_humile
+		Tapinoma_sessile
+		Tapinoma_melanocephalum
+		Technomyrmex_difficilis
+		Dolichoderus_pustulatus
+		Ochetellus_glaber
+		Forelius_pruinosus
+		Dorymyrmex_grandulus
+		Dorymyrmex_elegans
+		Gnamptogenys_triangularis
+		Brachymyrmex_heeri
+		Brachymyrmex_obscurior
+		Brachymyrmex_depilis
+		Brachymyrmex_minutus
+		Brachymyrmex_patagonicus
+		Polyergus_lucidus
+		Formica_incerta
+		Formica_subintegra
+		Formica_subsericea
+		Formica_exsectoides
+		Formica_fusca
+		Colobopsis_saundersi
+		Camponotus_socius
+		Camponotus_sexguttatus
+		Camponotus_floridanus
+		Camponotus_tortuganus
+		Camponotus_planatus
+		Camponotus_nearcticus
+		Camponotus_castaneus
+		Camponotus_americanus
+		Camponotus_novaeboracensis
+		Camponotus_chromaiodes
+		Camponotus_pennsylvanicus
+		Lasius_claviger
+		Lasius_alienus
+		Lasius_neoniger
+		Lasius_umbratus
+		Lasius_nearcticus
+		Lasius_flavus
+		Lasius_interjectus
+		Prenolepis_imparis
+		Paratrechina_longicornis
+		Nylanderia_bourbonica
+		Nylanderia_steinheili
+		Nylanderia_fulva
+		Nylanderia_pubens
+		Nylanderia_parvula
+		Nylanderia_vividula
+		Nylanderia_arenivaga
+		Nylanderia_phantasma
+		Nylanderia_wojciki
+		Nylanderia_concinna
+		Nylanderia_faisonensis
+		Pogonomyrmex_badius
+		Myrmica_latifrons
+		Myrmica_americana
+		Myrmica_pinetorum
+		Myrmica_punctiventris
+		Wasmannia_auropunctata
+		Pheidole_obscurithorax
+		Pheidole_dentata
+		Pheidole_morrisii
+		Pheidole_crassicornis
+		Pheidole_diversipilosa
+		Pheidole_megacephala
+		Pheidole_metallescens
+		Pheidole_bicarinata
+		Pheidole_littoralis
+		Pheidole_davisi
+		Pheidole_adrianoi
+		Pheidole_moerens
+		Pheidole_flavens
+		Pheidole_tysoni
+		Pheidole_dentigula
+		Pheidole_carrolli
+		Pheidole_pilifera
+		Pheidole_bilimeki
+		Pheidole_floridana
+		Cyphomyrmex_rimosus
+		Cyphomyrmex_minutus
+		Trachymyrmex_jamaicensis
+		Trachymyrmex_septentrionalis
+		Cephalotes_varians
+		Eurhopalothrix_australis
+		Strumigenys_margaritae
+		Strumigenys_gundlachi
+		Strumigenys_eggersi
+		Strumigenys_louisianae
+		Strumigenys_silvestrii
+		Strumigenys_lanuginosa
+		Strumigenys_rogeri
+		Strumigenys_emmae
+		Strumigenys_membranifera
+		Strumigenys_hexamera
+		Strumigenys_rostrata
+		Strumigenys_laevinasis
+		Strumigenys_pilinasis
+		Strumigenys_angulata
+		Strumigenys_bunki
+		Strumigenys_ornata
+		Strumigenys_abdita
+		Strumigenys_missouriensis
+		Strumigenys_reflexa
+		Strumigenys_boltoni
+		Strumigenys_pulchella
+		Strumigenys_creightoni
+		Strumigenys_talpa
+		Strumigenys_deyrupi
+		Strumigenys_wrayi
+		Strumigenys_apalachicolensis
+		Strumigenys_dietrichi
+		Strumigenys_archboldi
+		Strumigenys_cloydi
+		Monomorium_pharaonis
+		Monomorium_floricola
+		Monomorium_viridum
+		Monomorium_minimum
+		Solenopsis_carolinensis
+		Solenopsis_molesta
+		Solenopsis_globularia
+		Solenopsis_xyloni
+		Solenopsis_geminata
+		Solenopsis_invicta
+		Stenamma_schmittii
+		Stenamma_brevicorne
+		Stenamma_impar
+		Stenamma_diecki
+		Stenamma_meridionale
+		Stenamma_foveolocephalum
+		Aphaenogaster_fulva
+		Aphaenogaster_umphreyi
+		Aphaenogaster_mariae
+		Aphaenogaster_tennesseensis
+		Aphaenogaster_floridana
+		Aphaenogaster_flemingi
+		Aphaenogaster_picea
+		Aphaenogaster_ashmeadi
+		Aphaenogaster_treatae
+		Aphaenogaster_lamellidens
+		Aphaenogaster_miamiana
+		Aphaenogaster_carolinensis
+		Aphaenogaster_rudis
+		Xenomyrmex_floridanus
+		Trichomyrmex_destructor
+		Tetramorium_caldarium
+		Tetramorium_bicarinatum
+		Tetramorium_simillimum
+		Temnothorax_pergandei
+		Temnothorax_torrei
+		Temnothorax_allardycei
+		Temnothorax_smithi
+		Temnothorax_schaumii
+		Temnothorax_americanus
+		Temnothorax_curvispinosus
+		Temnothorax_tuscaloosae
+		Temnothorax_longispinosus
+		Crematogaster_lineolata
+		Crematogaster_pilosa
+		Crematogaster_minutissima
+		Crematogaster_ashmeadi
+		Crematogaster_laeviuscula
+		Myrmecina_americana
+		Cardiocondyla_obscurior
+		Cardiocondyla_minutior
+		Cardiocondyla_wroughtonii
+		Cardiocondyla_emeryi
+		Cardiocondyla_venustula
+		Cardiocondyla_mauritanica
+		Cardiocondyla_nuda
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Stigmatomma_pallipes,
+		2	Prionopelta_amabilis,
+		3	Discothyrea_testacea,
+		4	Proceratium_silaceum,
+		5	Proceratium_avium,
+		6	Platythyrea_punctata,
+		7	Hypoponera_punctatissima,
+		8	Hypoponera_opaciceps,
+		9	Hypoponera_inexorata,
+		10	Hypoponera_opacior,
+		11	Cryptopone_gilva,
+		12	Pseudoponera_stigma,
+		13	Ponera_exotica,
+		14	Ponera_pennsylvanica,
+		15	Leptogenys_diminuta,
+		16	Brachyponera_obscurans,
+		17	Brachyponera_chinensis,
+		18	Anochetus_mayri,
+		19	Odontomachus_ruginodis,
+		20	Odontomachus_relictus,
+		21	Odontomachus_brunneus,
+		22	Odontomachus_haematodus,
+		23	Neivamyrmex_texanus,
+		24	Neivamyrmex_opacithorax,
+		25	Neivamyrmex_nigrescens,
+		26	Pseudomyrmex_gracilis,
+		27	Pseudomyrmex_cubaensis,
+		28	Pseudomyrmex_elongatus,
+		29	Pseudomyrmex_simplex,
+		30	Pseudomyrmex_ejectus,
+		31	Pseudomyrmex_seminole,
+		32	Pseudomyrmex_pallidus,
+		33	Linepithema_humile,
+		34	Tapinoma_sessile,
+		35	Tapinoma_melanocephalum,
+		36	Technomyrmex_difficilis,
+		37	Dolichoderus_pustulatus,
+		38	Ochetellus_glaber,
+		39	Forelius_pruinosus,
+		40	Dorymyrmex_grandulus,
+		41	Dorymyrmex_elegans,
+		42	Gnamptogenys_triangularis,
+		43	Brachymyrmex_heeri,
+		44	Brachymyrmex_obscurior,
+		45	Brachymyrmex_depilis,
+		46	Brachymyrmex_minutus,
+		47	Brachymyrmex_patagonicus,
+		48	Polyergus_lucidus,
+		49	Formica_incerta,
+		50	Formica_subintegra,
+		51	Formica_subsericea,
+		52	Formica_exsectoides,
+		53	Formica_fusca,
+		54	Colobopsis_saundersi,
+		55	Camponotus_socius,
+		56	Camponotus_sexguttatus,
+		57	Camponotus_floridanus,
+		58	Camponotus_tortuganus,
+		59	Camponotus_planatus,
+		60	Camponotus_nearcticus,
+		61	Camponotus_castaneus,
+		62	Camponotus_americanus,
+		63	Camponotus_novaeboracensis,
+		64	Camponotus_chromaiodes,
+		65	Camponotus_pennsylvanicus,
+		66	Lasius_claviger,
+		67	Lasius_alienus,
+		68	Lasius_neoniger,
+		69	Lasius_umbratus,
+		70	Lasius_nearcticus,
+		71	Lasius_flavus,
+		72	Lasius_interjectus,
+		73	Prenolepis_imparis,
+		74	Paratrechina_longicornis,
+		75	Nylanderia_bourbonica,
+		76	Nylanderia_steinheili,
+		77	Nylanderia_fulva,
+		78	Nylanderia_pubens,
+		79	Nylanderia_parvula,
+		80	Nylanderia_vividula,
+		81	Nylanderia_arenivaga,
+		82	Nylanderia_phantasma,
+		83	Nylanderia_wojciki,
+		84	Nylanderia_concinna,
+		85	Nylanderia_faisonensis,
+		86	Pogonomyrmex_badius,
+		87	Myrmica_latifrons,
+		88	Myrmica_americana,
+		89	Myrmica_pinetorum,
+		90	Myrmica_punctiventris,
+		91	Wasmannia_auropunctata,
+		92	Pheidole_obscurithorax,
+		93	Pheidole_dentata,
+		94	Pheidole_morrisii,
+		95	Pheidole_crassicornis,
+		96	Pheidole_diversipilosa,
+		97	Pheidole_megacephala,
+		98	Pheidole_metallescens,
+		99	Pheidole_bicarinata,
+		100	Pheidole_littoralis,
+		101	Pheidole_davisi,
+		102	Pheidole_adrianoi,
+		103	Pheidole_moerens,
+		104	Pheidole_flavens,
+		105	Pheidole_tysoni,
+		106	Pheidole_dentigula,
+		107	Pheidole_carrolli,
+		108	Pheidole_pilifera,
+		109	Pheidole_bilimeki,
+		110	Pheidole_floridana,
+		111	Cyphomyrmex_rimosus,
+		112	Cyphomyrmex_minutus,
+		113	Trachymyrmex_jamaicensis,
+		114	Trachymyrmex_septentrionalis,
+		115	Cephalotes_varians,
+		116	Eurhopalothrix_australis,
+		117	Strumigenys_margaritae,
+		118	Strumigenys_gundlachi,
+		119	Strumigenys_eggersi,
+		120	Strumigenys_louisianae,
+		121	Strumigenys_silvestrii,
+		122	Strumigenys_lanuginosa,
+		123	Strumigenys_rogeri,
+		124	Strumigenys_emmae,
+		125	Strumigenys_membranifera,
+		126	Strumigenys_hexamera,
+		127	Strumigenys_rostrata,
+		128	Strumigenys_laevinasis,
+		129	Strumigenys_pilinasis,
+		130	Strumigenys_angulata,
+		131	Strumigenys_bunki,
+		132	Strumigenys_ornata,
+		133	Strumigenys_abdita,
+		134	Strumigenys_missouriensis,
+		135	Strumigenys_reflexa,
+		136	Strumigenys_boltoni,
+		137	Strumigenys_pulchella,
+		138	Strumigenys_creightoni,
+		139	Strumigenys_talpa,
+		140	Strumigenys_deyrupi,
+		141	Strumigenys_wrayi,
+		142	Strumigenys_apalachicolensis,
+		143	Strumigenys_dietrichi,
+		144	Strumigenys_archboldi,
+		145	Strumigenys_cloydi,
+		146	Monomorium_pharaonis,
+		147	Monomorium_floricola,
+		148	Monomorium_viridum,
+		149	Monomorium_minimum,
+		150	Solenopsis_carolinensis,
+		151	Solenopsis_molesta,
+		152	Solenopsis_globularia,
+		153	Solenopsis_xyloni,
+		154	Solenopsis_geminata,
+		155	Solenopsis_invicta,
+		156	Stenamma_schmittii,
+		157	Stenamma_brevicorne,
+		158	Stenamma_impar,
+		159	Stenamma_diecki,
+		160	Stenamma_meridionale,
+		161	Stenamma_foveolocephalum,
+		162	Aphaenogaster_fulva,
+		163	Aphaenogaster_umphreyi,
+		164	Aphaenogaster_mariae,
+		165	Aphaenogaster_tennesseensis,
+		166	Aphaenogaster_floridana,
+		167	Aphaenogaster_flemingi,
+		168	Aphaenogaster_picea,
+		169	Aphaenogaster_ashmeadi,
+		170	Aphaenogaster_treatae,
+		171	Aphaenogaster_lamellidens,
+		172	Aphaenogaster_miamiana,
+		173	Aphaenogaster_carolinensis,
+		174	Aphaenogaster_rudis,
+		175	Xenomyrmex_floridanus,
+		176	Trichomyrmex_destructor,
+		177	Tetramorium_caldarium,
+		178	Tetramorium_bicarinatum,
+		179	Tetramorium_simillimum,
+		180	Temnothorax_pergandei,
+		181	Temnothorax_torrei,
+		182	Temnothorax_allardycei,
+		183	Temnothorax_smithi,
+		184	Temnothorax_schaumii,
+		185	Temnothorax_americanus,
+		186	Temnothorax_curvispinosus,
+		187	Temnothorax_tuscaloosae,
+		188	Temnothorax_longispinosus,
+		189	Crematogaster_lineolata,
+		190	Crematogaster_pilosa,
+		191	Crematogaster_minutissima,
+		192	Crematogaster_ashmeadi,
+		193	Crematogaster_laeviuscula,
+		194	Myrmecina_americana,
+		195	Cardiocondyla_obscurior,
+		196	Cardiocondyla_minutior,
+		197	Cardiocondyla_wroughtonii,
+		198	Cardiocondyla_emeryi,
+		199	Cardiocondyla_venustula,
+		200	Cardiocondyla_mauritanica,
+		201	Cardiocondyla_nuda
+	;
+	TREE * UNTITLED = [&R] ((((1:103.59,2:103.59):15,(3:99.050779,(4:80.467441,5:80.467441):18.583338):19.539221):2.97,(6:110,((7:35.66,(8:31.216097,(9:19.19,10:19.19):12.026097):4.443903):54.3,(((11:57.139493,12:57.139493):5.660507,(13:25.45,14:25.45):37.35):22.371098,((15:54.561217,(16:33.195917,17:33.195917):21.3653):4.608783,(18:29.05,(19:5.45,(20:4.421732,(21:3.145979,22:3.145979):1.275753):1.028268):23.6):30.12):26.001098):4.788902):20.04):11.56):3.81,((23:18.416728,(24:12.15,25:12.15):6.266728):101.643272,(((26:28.91,((27:3.09,28:3.09):13.46,(29:4.47,(30:2.5,(31:1.17,32:1.17):1.33):1.97):12.08):12.36):87.63,(((33:38.277047,34:38.277047):30.822716,(35:59.506706,36:59.506706):9.593057):1.750237,(37:67.718401,(38:61.587599,(39:48.88,(40:8.47,41:8.47):40.41):12.707599):6.130802):3.131599):45.69):2.28,((42:112.357812,(((43:49.239181,44:49.239181):14.822321,(45:27.622832,(46:22.520223,47:22.520223):5.102609):36.43867):30.528498,(((48:82.354901,(49:33.573786,((50:6.301195,51:6.301195):3.458805,(52:8.702885,53:8.702885):1.057115):23.813786):48.781115):0.025099,(54:57.19,(55:48.864461,(56:46.478727,(57:39.792116,((58:27.17,59:27.17):12.58,(60:27.86,((61:5.01,62:5.01):14.89,(63:6.945803,(64:4.643841,65:4.643841):2.301961):12.954197):7.96):11.89):0.042116):6.686611):2.385734):8.325539):25.19):4.75,((66:43.01,((67:26.79,68:26.79):8.187939,(69:31.870779,(70:18.379464,(71:4.858931,72:4.858931):13.520533):13.491315):3.10716):8.032061):37.6,(73:57.38,(74:53.22,((75:12.08,(76:7.26,(77:1.19,78:1.19):6.07):4.82):22.63,(79:23.85,(80:16.76,((81:0.16,82:0.16):9.84,(83:4.32,(84:0.32,85:0.32):4):5.68):6.76):7.09):10.86):18.51):4.16):23.23):6.52):7.46):17.767812):4.652188,(86:104.81,(((87:10.17,88:10.17):9.23,(89:1.705237,90:1.705237):17.694763):82.763473,(((91:88.099007,((92:57.904544,(93:38.28,(94:27.920069,(95:2.681376,96:2.681376):25.238693):10.359931):19.624544):12.675456,((97:59.10367,(98:47.975243,(99:35.149044,(100:21.440097,(101:1.649169,102:1.649169):19.790928):13.708947):12.826199):11.128428):7.356281,((103:21.947073,104:21.947073):42.651262,((105:54.255138,106:54.255138):1.789309,((107:3.049262,108:3.049262):44.950365,(109:7.846541,110:7.846541):40.153085):8.04482):8.553889):1.861616):4.120049):17.519007):0.950993,(((111:13.73,112:13.73):32.85,(113:35.74,114:35.74):10.84):39.156578,(115:84.417693,(116:81.87,((117:22.78568842,((118:11.16752504,119:11.16752503):9.655670784,(120:20.08278842,(121:17.32995716,122:17.32995716):2.752831266):0.7404073947):1.962492601):5.694253661,(123:23.44137384,(124:17.18974598,(125:16.96113341,(126:16.04428968,(127:4.40310105,((128:2.718434483,129:2.718434482):0.700513289,(130:2.804962924,(131:2.696319393,((132:2.076971804,(133:1.990706575,(134:1.279388027,135:1.279388027):0.7113185482):0.08626522867):0.09303549134,((136:1.482481016,137:1.482481016):0.5148314293,((138:1.609031707,(139:1.498677103,(140:0.9563175016,141:0.9563175016):0.5423596013):0.1103546043):0.2357046197,(142:1.737550381,(143:1.49904144,(144:1.393352851,145:1.393352851):0.1056885897):0.2385089403):0.1071859464):0.152576118):0.17269485):0.5263120977):0.1086435314):0.6139848475):0.9841532783):11.64118863):0.9168437235):0.2286125778):6.251627851):5.038568245):53.39005891):2.547693):1.318884):3.313422):6.95,(((146:26.61,(147:17.155536,(148:12.972421,149:12.972421):4.183115):9.454464):46.69,((150:25.56,151:25.56):5.27,(152:17.77,(153:4.94,(154:4.512443,155:4.512443):0.427557):12.83):13.06):42.47):21.938407,(((156:34.71,(157:23.76,(158:20.9,(159:16.965551,(160:10.043965,161:10.043965):6.921586):3.934449):2.86):10.95):35.73,((162:1.05,163:1.05):29.45,((164:14.67,165:14.67):11.497409,((166:13.210554,167:13.210554):2.789446,(168:12.46,((169:6.07,170:6.07):3.88,(171:8.22,(172:1.45,(173:0.63,174:0.63):0.82):6.77):1.73):2.51):3.54):10.167409):4.332591):39.94):22.964907,(175:88.79,(176:88.763367,(((177:30.92,(178:27.89,179:27.89):3.03):42.925903,((180:30.438329,181:30.438329):6.160943,((182:32.693871,(183:8.504596,184:8.504596):24.189275):1.908638,(185:22.194296,(186:12.33592,(187:11.650301,188:11.650301):0.685619):9.858376):12.408214):1.996762):37.246631):11.502334,(((189:3.09,190:3.09):77.92954,(191:58.92977,(192:23.0901,193:23.0901):35.83967):22.08977):0.030672,(194:78.319555,(195:25.19,(196:15.37,((197:0.01107,198:0.01107):11.362435,(199:8.91,(200:4.89,201:4.89):4.02):2.463505):3.996495):9.82):53.129555):2.730656):4.298025):3.41513):0.026633):4.614907):1.833501):0.761593):6.163473):2.646527):12.2):1.81):1.24):5.31);
+END;

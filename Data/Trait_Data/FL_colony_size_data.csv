@@ -1,0 +1,423 @@
+﻿Subfamily,Genus,Genus.Species,caste,colony_size,cs_source,cs_notes,nesting_strata,diet,status,morphism,notes_biology
+Ponerinae,Anochetus,Anochetus.mayri,worker,12,Antwiki Wheeler 1908,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.ashmeadi,worker,423,Deyrup 2016,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.ashmeadi,worker,175,Deyrup 2016,median value between 100-250,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.ashmeadi,worker,423,Deyrup 2016,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.ashmeadi,worker,168,"Tschinkel, W. R. 2011. J. Insect Science 11:1–30",,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.ashmeadi,worker,333,Van Pelt Ref in Deyrup,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.carolinensis,worker,,Deyrup 2016,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.carolinensis,worker,42,Doug Booher Collection,Unpublished research,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.carolinensis,worker,16,Doug Booher Collection,Unpublished research,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.flemingi,worker,300,Deyrup 2016,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.flemingi,worker,300,King,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.floridana,worker,50,King 2007,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.floridana,worker,183,"Tschinkel, W. R. 2011. J. Insect Science 11:1–30.",,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.floridana,worker,50,King,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.fulva,worker,,,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.fulva,worker,800,Deyrup 2016,Up to 800 workers,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.fulva,worker,281,Burchill,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.lamellidens,worker,600,Deyrup 2016,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.lamellidens,worker,600,Deyrup 2016,Up to 600 workers,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.lamellidens,worker,300,King,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.mariae,worker,300,Deyrup 2016,,Arboreal,Omnivore,Native,Monomorphic,"Possible parasite, rarely sampled"
+Myrmicinae,Aphaenogaster,Aphaenogaster.miamiana,worker,800,Deyrup 2016,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.rudis,worker,738,"Talbot 1964 in ""Populations of ants in a Missouri Woodland""",,Mixed,Omnivore,Native,Monomorphic," (not in book, but determined by Deyrup from Eglin AFB left)"
+Myrmicinae,Aphaenogaster,Aphaenogaster.rudis,worker,303,Burchill,,Mixed,Omnivore,Native,Monomorphic," (not in book, but determined by Deyrup from Eglin AFB left)"
+Myrmicinae,Aphaenogaster,Aphaenogaster.rudis,worker,507,"D. Lubertazzi and E. S. Adams, “Bayesian analysis of split sex ratios: methods and application to the ant Aphaenogaster rudis,” Evolutionary Ecology Research, vol. 12, no. 2, pp. 169–188, 2010.",,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.rudis,worker,326,Burchill,,Mixed,Omnivore,Native,Monomorphic," (not in book, but determined by Deyrup from Eglin AFB left)"
+Myrmicinae,Aphaenogaster,Aphaenogaster.tennesseensis,worker,600,Carrol 1975 ,Up to 600 workers,Mixed,Omnivore,Native,Monomorphic,"suspected parasite of other aphaenogaster, rare"
+Myrmicinae,Aphaenogaster,Aphaenogaster.treatae,worker,200,Deyrup 2016,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.treatae,worker,682,"Deyrup 2016, Burchill",65-1662,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.treatae,worker,300,King,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Aphaenogaster,Aphaenogaster.umphreyi,worker,,,,Ground,Omnivore,Native,Monomorphic,Very little known about this
+Formicinae,Brachymyrmex,Brachymyrmex.depilis,worker,22,Burchill,,Mixed,Omnivore,Native,Monomorphic,
+Formicinae,Brachymyrmex,Brachymyrmex.depilis,worker,200,King,,Mixed,Omnivore,Native,Monomorphic,
+Formicinae,Brachymyrmex,Brachymyrmex.minutus,worker,125,Antwiki,100-150,Ground,Omnivore,Nonnative,Monomorphic,Very little known about this
+Formicinae,Brachymyrmex,Brachymyrmex.obscurior,worker,200,King,,Mixed,Omnivore,Nonnative,Monomorphic,Very weedy
+Formicinae,Brachymyrmex,Brachymyrmex.patagonicus,worker,,,,Mixed,Omnivore,Nonnative,Monomorphic,
+Formicinae,Camponotus,Camponotus.americanus,major,3560,Burchill,,Ground,Omnivore,Native,Polymorphic,Nocturnal
+Formicinae,Camponotus,Camponotus.americanus,worker,3560,Burchill,,Ground,Omnivore,Native,Polymorphic,Nocturnal
+Formicinae,Camponotus,Camponotus.caryae,major,,,,Arboreal,,Native,Polymorphic,"Very rare,  image not found"
+Formicinae,Camponotus,Camponotus.caryae,worker,,,,Arboreal,,Native,Polymorphic,Very rare
+Formicinae,Camponotus,Camponotus.castaneus,major,350,King,,Ground,Omnivore,Native,Polymorphic,Nocturnal
+Formicinae,Camponotus,Camponotus.castaneus,worker,350,King,,Ground,Omnivore,Native,Polymorphic,Nocturnal
+Formicinae,Camponotus,Camponotus.decipiens,major,,,,Arboreal,,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.decipiens,worker,,,,Arboreal,,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.discolor,major,70,King,,Arboreal,Omnivore,Native,Polymorphic,Very rare
+Formicinae,Camponotus,Camponotus.discolor,worker,70,King,,Arboreal,Omnivore,Native,Polymorphic,"Very rare,  image not found"
+Formicinae,Camponotus,Camponotus.floridanus,major,10000,King,,Ground,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.floridanus,worker,10000,King,,Ground,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.inaequalis,worker,,,,Ground,Omnivore,Nonnative,Polymorphic,"Taxonomy is wonky, (can't find image on ant web)"
+Formicinae,Camponotus,Camponotus.nearcticus,major,70,King,,Arboreal,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.nearcticus,major,70,King,,Arboreal,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.nearcticus,worker,69,Burchill,,Arboreal,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.nearcticus,worker,69,Burchill,,Arboreal,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.novogranadensis,major,,,,Arboreal,Omnivore,Nonnative,Polymorphic,
+Formicinae,Camponotus,Camponotus.novogranadensis,worker,,,,Arboreal,Omnivore,Nonnative,Polymorphic,
+Formicinae,Camponotus,Camponotus.pennsylvanicus,major,2222,Burchill,,Ground,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.pennsylvanicus ,worker,2222,Burchill,,Ground,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.planatus,major,,,,Mixed,Omnivore,Nonnative,Polymorphic,Diurnal forager
+Formicinae,Camponotus,Camponotus.planatus,worker,,,,Mixed,Omnivore,Nonnative,Polymorphic,Diurnal forager
+Formicinae,Camponotus,Camponotus.sexguttatus,major,,,,Mixed,Omnivore,Nonnative,Polymorphic,Sap-sucking insects
+Formicinae,Camponotus,Camponotus.sexguttatus,worker,,,,Mixed,Omnivore,Nonnative,Polymorphic,Sap-sucking insects
+Formicinae,Camponotus,Camponotus.snellingi,major,,,,Mixed,,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.snellingi,worker,,,,Mixed,,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.socius,major,350,King,,Ground,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.socius,major,350,King,,Ground,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.socius,worker,590,Burchill,,Ground,Omnivore,Native,Polymorphic,
+Formicinae,Camponotus,Camponotus.socius,worker,590,Burchill,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Cardiocondyla,Cardiocondyla.emeryi,worker,50,King,,Ground,Omnivore,Nonnative,Monomorphic,polygyne
+Myrmicinae,Cardiocondyla,Cardiocondyla.mauritanica,worker,,,,Ground,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Cardiocondyla,Cardiocondyla.minutior,worker,50,King,"Under ""nuda"" in Josh's paper",Ground,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Cardiocondyla,Cardiocondyla.obscurior,worker,,,,Arboreal,Omnivore,Nonnative,Monomorphic,Honey dew nectar
+Myrmicinae,Cardiocondyla,Cardiocondyla.venustula,worker,150,Antwiki,100-200,Ground,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Cardiocondyla,Cardiocondyla.wroughtonii,worker,50,King,,Leaf Litter,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Cephalotes,Cephalotes.varians,major,1000,Burchill,,Arboreal,Omnivore,Native,Polymorphic,"Nocturnal, mostly scavengers"
+Myrmicinae,Cephalotes,Cephalotes.varians,worker,1000,Burchill,,Arboreal,Omnivore,Native,Polymorphic,"Nocturnal, mostly scavengers"
+Formicinae,Colobopsis,Colobopsis.impressa,worker,180,Deyrup,"146±76 minors, 34±15 majors",Mixed,Omnivore,Native,Polymorphic,
+Formicinae,Colobopsis,Colobopsis.obliquus,worker,,,,Arboreal,Omnivore,Native,Polymorphic,little known
+Formicinae,Colobopsis,Colobopsis.riehlii,worker,,,,Mixed,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Crematogaster,Crematogaster.ashmeadi,worker,3260,https://doi.org/10.1111/phen.12099,Back transformed from biomass data,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.ashmeadi,worker,10000,King,,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.atkinsoni,worker,500,King,,Arboreal,Omnivore,Native,Monomorphic,tends to aphids
+Myrmicinae,Crematogaster,Crematogaster.cerasi,worker,,,hundreds according to antwiki,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.lineolata,worker,15,Doug Booher Collection,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.lineolata,worker,178,Doug Booher Collection,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.lineolata,worker,200,King,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.minutissima,worker,313,Doug Booher Collection,,Leaf Litter,Omnivore,Native,Monomorphic,Polygyne
+Myrmicinae,Crematogaster,Crematogaster.minutissima,worker,208,Burchill,,Leaf Litter,Omnivore,Native,Monomorphic,Polygyne
+Myrmicinae,Crematogaster,Crematogaster.minutissima,worker,200,King,,Leaf Litter,Omnivore,Native,Monomorphic,Polygyne
+Myrmicinae,Crematogaster,Crematogaster.missouriensis,worker,,,,Ground,,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.obscurata,worker,,,,Arboreal,,Nonnative,Monomorphic,Polygyne
+Myrmicinae,Crematogaster,Crematogaster.pilosa,worker,807,Loken & Oliver 2016,Average number of adults per multi-nest colony,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.pinicola,worker,40000,"Tschinkel 2002 paper, used conservative estimate but the max from this. Deyrup talks about how tschinkl's paper is likely on pinicola and not ashmeadi",,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Crematogaster,Crematogaster.vermiculata,worker,,,,Arboreal,,Native,Monomorphic,
+Ponerinae,Cryptopone,Cryptopone.gilva,worker,100,Antwiki,But can also be in several hundred range,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Cyphomyremx,Cyphomyrmex.minutus,worker,150,King,,Ground,Specialist,Native,Monomorphic,
+Myrmicinae,Cyphomyremx,Cyphomyrmex.rimosus,worker,100,Burchill,,Ground,Specialist,Nonnative,Monomorphic,
+Myrmicinae,Cyphomyremx,Cyphomyrmex.rimosus,worker,150,King,,Ground,Specialist,Nonnative,Monomorphic,
+Proceratiinae,Discothyrea,Discothyrea.testacea,worker,15,Antwiki,10 to 20,Mixed,Predator,Native,Monomorphic,
+Dolichoderinae,Dolichoderus,Dolichoderus.mariae,worker,1265000,Laskis and Tschinkel 2009,"530,000 to 2 million from two colonies monitored across years, numbers represent peak census values",Ground,Omnivore,Native,Monomorphic,Polygyne and polydomous
+Dolichoderinae,Dolichoderus,Dolichoderus.pustulatus,worker,1299,Kannowski 1967,https://www.researchgate.net/publication/233643599_Colony_Populations_of_Two_Species_of_Dolichoderus_Hymenoptera_Formicidae,Mixed,Omnivore,Native,Monomorphic,Monogyne?
+Dolichoderinae,Dorymyrmex,Dorymyrmex.bossutus,worker,1000,King,,Ground,Omnivore,Native,Monomorphic,
+Dolichoderinae,Dorymyrmex,Dorymyrmex.bureni,worker,1000,King,,Ground,Omnivore,Native,Monomorphic,Monodomous
+Dolichoderinae,Dorymyrmex,Dorymyrmex.elegans,worker,1000,King,,Ground,Omnivore,Native,Monomorphic,
+Dolichoderinae,Dorymyrmex,Dorymyrmex.flavopectus,worker,,,,Ground,,Native,Monomorphic,rare
+Dolichoderinae,Dorymyrmex,Dorymyrmex.grandulus,worker,1000,King,,Ground,Omnivore,Native,Monomorphic,rare
+Dolichoderinae,Dorymyrmex,Dorymyrmex.reginicula,worker,1000,King,,Ground,Omnivore,Native,Monomorphic,"rare parasite, monodomous"
+Dolichoderinae,Dorymyrmex,Dorymyrmex.sp.,worker,,,,,,,Monomorphic,
+Myrmicinae,Eurhopalothrix,Eurhopalothrix.floridana,worker,100,Booher,less than 100 (personal info),Leaf Litter,Predator,Native,Monomorphic,
+Dolichoderinae,Forelius,Forelius.pruinosus,worker,10000,King,,Ground,Omnivore,Native,Monomorphic,"Diurnal, polydomous, polygynous"
+Formicinae,Formica,Formica.archboldi,worker,1210,Deyrup,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Formica,Formica.archboldi,worker,500,King,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Formica,Formica.archboldi,worker,493,King 2007,493 plus/minus 173,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Formica,Formica.biophilica,worker,,,,Ground,,Native,Monomorphic,
+Formicinae,Formica,Formica.dolosa,worker,630,King 2007,630 plus minus 86,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Formica,Formica.pallidefulva,worker,424,King 2007,424 plus minus 30,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Formica,Formica.subsericea,worker,8916,Burchill,,Ground,Omnivore,Native,Monomorphic,
+Ponerinae,Gnamptogenys,Gnamptogenys.triangularis,worker,100,Lattke 1990 in Deyrup,80-120,Ground,Predator,Native,Monomorphic,
+Ponerinae,Hypoponera,Hypoponera.inexorata,worker,12,Burchill,reportedly less than 20,Mixed,Predator,Native,Monomorphic,
+Ponerinae,Hypoponera,Hypoponera.inexorata,worker,50,King,reportedly less than 20,Mixed,Predator,Native,Monomorphic,
+Ponerinae,Hypoponera,Hypoponera.opaciceps,worker,50,King,,Mixed,Predator,Nonnative,Monomorphic,
+Ponerinae,Hypoponera,Hypoponera.opaciceps,worker,40,Van Pelt (1958),15-84 (avg:40),Mixed,Predator,Nonnative,Monomorphic,
+Ponerinae,Hypoponera,Hypoponera.opacior,worker,50,King 2007,,Mixed,Predator,Native,Monomorphic,
+Ponerinae,Hypoponera,Hypoponera.punctatissima,worker,,,,Mixed,Predator,Nonnative,Monomorphic,Polygyne and polydomous
+Formicinae,Lasius,Lasius.americanus,worker,3000,Burchill,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Lasius,Lasius.interjectus,worker,,,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Lasius,Lasius.neoniger,worker,,Deyrup,Over 1000 including larvae,Ground,Omnivore,Native,Monomorphic,", monogynous"
+Formicinae,Lasius,Lasius.umbratus,worker,3000,Burchill,,Ground,Omnivore,Native,Monomorphic,temp nest parasite
+Ponerinae,Leptogenys,Leptogenys.manni,worker,,,,Ground,Predator,Native,Monomorphic,"Reproduction through fission, nocturnal"
+Dolichoderinae,Linepithema,Linepithema.humile,worker,15000,Burchill,,Ground,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Monomorium,Monomorium.pharaonis,worker,800,Burchill,,Ground,Omnivore,Nonnative,Monomorphic,Budding reproduction
+Myrmicinae,Monomorium,Monomorium.pharaonis,worker,2382,Burchill,,Ground,Omnivore,Nonnative,Monomorphic,Budding reproduction
+Myrmicinae,Monomorium,Monomorium.sp.,worker,,,,,,,Monomorphic,
+Myrmicinae,Monomorium,Monomorium.subcoecum,worker,,,,Ground,,Nonnative,Monomorphic,"Polygyne, (used syllophopsis subcoeca, but photos are bad)"
+Myrmicinae,Monomorium,Monomorium.trageri,worker,,,,Mixed,Omnivore,Native,Monomorphic,Flightless queens
+Myrmicinae,Monomorium,Monomorium.viridum,worker,10000,King,,Ground,Omnivore,Native,Monomorphic,"Polygyne, (only one set of phots)"
+Myrmicinae,Myrmecina,Myrmecina.americana,worker,24,Burchill,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Myrmecina,Myrmecina.americana,worker,50,King,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Myrmecina,Myrmecina.sp.nov.,worker,,,,,,,Monomorphic,
+Myrmicinae,Myrmica,Myrmica.punctiventris,worker,13,Burchill,,Leaf Litter,Omnivore,Native,Monomorphic,
+Myrmicinae,Myrmica,Myrmica.punctiventris,worker,86,Burchill,,Leaf Litter,Omnivore,Native,Monomorphic,
+Myrmicinae,Myrmica,Myrmica.punctiventris,worker,50,Deyrup,,Leaf Litter,Omnivore,Native,Monomorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.carolinensis,worker,110000,Burchill,,Ground,Predator,Native,Polymorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.carolinensis,worker,30000,King,,Ground,Predator,Native,Polymorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.nigrescens,worker,10000,Deyrup,,Ground,Predator,Native,Polymorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.nigrescens,worker,30000,Burchill,,Ground,Predator,Native,Polymorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.nigrescens,worker,110000,Burchill,,Ground,Predator,Native,Polymorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.opacithorax,worker,30000,King,,Ground,Predator,Native,Polymorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.pilosus,worker,,,,Ground,Predator,Native,Polymorphic,
+Ecitoninae,Neivamyrmex,Neivamyrmex.texanus,worker,30000,King,,Ground,Predator,Native,Polymorphic,
+Formicinae,Nylanderia,Nylanderia.arenivaga,worker,100,King,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.bourbonica,worker,200,pers comm j williams,100-300,Ground,Omnivore,Nonnative,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.concinna,worker,100,King,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.faisonensis,worker,22,Doug Booher Collection,,Leaf Litter,Omnivore,Native,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.faisonensis,worker,64,Doug Booher Collection,,Leaf Litter,Omnivore,Native,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.faisonensis,worker,268,Burchill,,Leaf Litter,Omnivore,Native,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.faisonensis,worker,100,King,,Leaf Litter,Omnivore,Native,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.fulva,worker,,pers comm j williams,millions?,,Omnivore,Nonnative,Monomorphic,"This forms super colonies, may need to remove from models"
+Formicinae,Nylanderia,Nylanderia.parvula,worker,100,King,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.phantasma,worker,100,King,,Ground,Omnivore,Native,Monomorphic,Nocturnal
+Formicinae,Nylanderia,Nylanderia.pubens,worker,200,pers comm j williams,100-300,Ground,Omnivore,Nonnative,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.steinheili,worker,143,Burchill,,Leaf Litter,Omnivore,Nonnative,Monomorphic,
+Formicinae,Nylanderia,Nylanderia.vividula,worker,200,pers comm j williams,100-300,Leaf Litter,Omnivore,Native,Monomorphic,?
+Formicinae,Nylanderia,Nylanderia.wojciki,worker,100,King,,Ground,Omnivore,Native,Monomorphic,
+Dolichoderinae,Ochetellus,Ochetellus.glaber,worker,,,,Arboreal,Omnivore,Nonnative,Monomorphic,"Polygyne, budding"
+Ponerinae,Odontomachus,Odontomachus.brunneus,worker,72,"Cerquera, L. M., and W. R. Tschinkel. 2008. J. Insect Sci. 10:1–12.",,Ground,Predator,Native,Monomorphic,
+Ponerinae,Odontomachus,Odontomachus.brunneus,worker,65,Burchill,,Ground,Predator,Native,Monomorphic,
+Ponerinae,Odontomachus,Odontomachus.brunneus,worker,200,King,,Ground,Predator,Native,Monomorphic,
+Ponerinae,Odontomachus,Odontomachus.haematodus,worker,500,Burchill,,Ground,Predator,Nonnative,Monomorphic,
+Ponerinae,Odontomachus,Odontomachus.relictus,worker,200,King,,Ground,Predator,Native,Monomorphic,
+Ponerinae,Odontomachus,Odontomachus.ruginodis,worker,200,King,,Ground,Predator,Nonnative,Monomorphic,
+Formicinae,Paratrechina,Paratrechina.longicornis,worker,2000,Burchill,,Ground,Omnivore,Nonnative,Monomorphic,"budding, high affinitiy for human-areas"
+Myrmicinae,Pheidole,Pheidole.adrianoi,major,350,King,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.adrianoi,major,300,Deyrup,"60 majors, 240 minors",Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.adrianoi,worker,350,King,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.adrianoi,worker,300,Deyrup,"60 majors, 240 minors",Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.bicarinata,major,200,Deyrup,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.bicarinata,worker,200,Deyrup,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.carrolli,major,,,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.carrolli,worker,,,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.crassicornis,major,1000,Antweb,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.crassicornis,worker,1000,Antweb,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.dentata,major,800,King,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.dentata,major,800,King,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.dentata,worker,946,Burchill,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.dentata,worker,946,Burchill,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.dentigula,major,300,King,,Mixed,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.dentigula,worker,300,King,,Mixed,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.diversipilosa,major,1000,Antwiki,"""can exceed 1000 workers""",Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.diversipilosa,worker,1000,Antwiki,"""can exceed 1000 workers""",Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.flavens,major,,,,Mixed,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.flavens,worker,,,,Mixed,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.floridana,major,1000,"Deyrup, King",,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.floridana,worker,1000,"Deyrup, King",,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.lamia,major,1200,Deyrup,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.lamia,worker,1200,Deyrup,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.littoralis,major,,,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.littoralis,worker,,,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.megacephala,major,,,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.megacephala,worker,,,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.metallescens,major,534,Deyrup,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.metallescens,major,1000,King,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.metallescens,worker,534,Deyrup,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.metallescens,worker,1000,King,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.moerens,major,600,King,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.moerens,worker,600,King,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.morrisii,major,2500,"Burchill, King",,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.morrisii,worker,2500,"Burchill, King",,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.obscurithorax,major,10000,Deyrup,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.obscurithorax,worker,10000,Deyrup,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.sp.,worker,,,,,,,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.tysoni,major,,,,Ground,Omnivore,Native,Polymorphic,
+Myrmicinae,Pheidole,Pheidole.tysoni,worker,,,,Ground,Omnivore,Native,Polymorphic,
+Ponerinae,Platythyrea,Platythyrea.punctata,worker,60,King,,Mixed,Predator,Nonnative,Monomorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,major,2568,Burchill,,Ground,Specialist,Native,Polymorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,major,4300,Burchill,,Ground,Specialist,Native,Polymorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,major,4736,Burchill,,Ground,Specialist,Native,Polymorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,major,4500,King,,Ground,Specialist,Native,Polymorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,worker,2568,Burchill,,Ground,Specialist,Native,Polymorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,worker,4300,Burchill,,Ground,Specialist,Native,Polymorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,worker,4736,Burchill,,Ground,Specialist,Native,Polymorphic,
+Myrmicinae,Pogonomyrmex,Pogonomyrmex.badius,worker,4500,King,,Ground,Specialist,Native,Polymorphic,
+,Polyergus,Polyergus.sp.,worker,,,,,,,Monomorphic,
+Ponerinae,Ponera,Ponera.exotica,worker,50,King,,Ground,Predator,Native,Monomorphic,
+Ponerinae,Ponera,Ponera.pennsylvanica,worker,7,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,
+Ponerinae,Ponera,Ponera.pennsylvanica,worker,14,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,
+Ponerinae,Ponera,Ponera.pennsylvanica,worker,5,Burchill,,Mixed,Predator,Native,Monomorphic,
+Formicinae,Prenolepis,Prenolepis.imparis,worker,1500,"Talbot 1964 in ""Populations of ants in a Missouri Woodland""",,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Prenolepis,Prenolepis.imparis,worker,3790,"Tschinkel, W. R. 1987. Insectes Soc. 34:143–164.",,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Prenolepis,Prenolepis.imparis,worker,1600,Burchill,,Ground,Omnivore,Native,Monomorphic,
+Formicinae,Prenolepis,Prenolepis.imparis,worker,3370,Burchill,,Ground,Omnivore,Native,Monomorphic,
+Amblyoponinae,Prionopelta,Prionopelta.antillana,worker,,,,Mixed,Predator,Nonnative,Monomorphic,
+Proceratiinae,Proceratium,Proceratium.chickasaw,worker,,,,Mixed,Predator,Native,Monomorphic,
+Proceratiinae,Proceratium,Proceratium.crassicorne,worker,30,Antwiki,,Mixed,Predator,Native,Monomorphic,
+Proceratiinae,Proceratium,Proceratium.creek,worker,,,,Ground,Predator,Native,Monomorphic,
+Proceratiinae,Proceratium,Proceratium.croceum,worker,30,Deyrup,,Ground,Predator,Native,Monomorphic,
+Proceratiinae,Proceratium,Proceratium.pergandei,worker,28,Burchill,,Ground,Predator,Native,Monomorphic,
+Proceratiinae,Proceratium,Proceratium.pergandei,worker,25,King,,Ground,Predator,Native,Monomorphic,
+Proceratiinae,Proceratium,Proceratium.silaceum,worker,28,Burchill,,Ground,Predator,Native,Monomorphic,
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.cubaensis,worker,,,,Arboreal,Omnivore,Nonnative,Monomorphic,
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.ejectus,worker,80,King,,Arboreal,Omnivore,Nonnative,Monomorphic,
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.elongatus,worker,80,King,,Arboreal,Omnivore,Nonnative,Monomorphic,
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.gracilis,worker,80,King,,Arboreal,Omnivore,Nonnative,Monomorphic,prey on small insects but also honey dew from sap sucking insects
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.leptosus,worker,,Deyrup,0,Arboreal,Omnivore,Native,Monomorphic,Workerless parasite
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.pallidus,worker,30,King,,Arboreal,Omnivore,Nonnative,Monomorphic,
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.seminole,worker,,,,Ground,,Native,Monomorphic,"Possible parasite, rarely sampled"
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.simplex,worker,,,,Arboreal,Omnivore,Native,Monomorphic,
+Pseudomyrmecinae,Pseudomyrmex,Pseudomyrmex.sp.,worker,,,,,,,Monomorphic,
+Ponerinae,Pseudoponera,Pseudoneoponera.stigma,worker,9,Burchill,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Solenopsis,Solenopsis.carolinensis,worker,200,King,,Ground,Omnivore,Native,Monomorphic,Polgynous
+Myrmicinae,Solenopsis,Solenopsis.geminata,major,28000,King,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Solenopsis,Solenopsis.geminata,worker,28000,King,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Solenopsis,Solenopsis.globularia,worker,50,King,,Ground,Omnivore,Nonnative,Polymorphic,
+Myrmicinae,Solenopsis,Solenopsis.invicta,worker,100000,Burchill,,Ground,Omnivore,Nonnative,Polymorphic,Weakly polymorphic
+Myrmicinae,Solenopsis,Solenopsis.invicta,worker,220000,Burchill,,Ground,Omnivore,Nonnative,Polymorphic,Weakly polymorphic
+Myrmicinae,Solenopsis,Solenopsis.invicta,worker,150000,King,,Ground,Omnivore,Nonnative,Polymorphic,"Weakly polymorphic, images difficult to tell"
+Myrmicinae,Solenopsis,Solenopsis.pergandei,worker,10000,King,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Solenopsis,Solenopsis.phoretica,worker,,,,,Specialist,,,"Only one specimen, (image not avail on antweb)"
+Myrmicinae,Solenopsis,Solenopsis.picta,worker,,,,Arboreal,Omnivore,Native,Monomorphic, (zeteki is arboreal as well)
+Myrmicinae,Stenamma,Stenamma.foveolocephalum,worker,,,,Ground,Predator,Native,Monomorphic,Very rare
+Myrmicinae,Stenamma,Stenamma.impar,worker,54,Burchill,,Ground,Omnivore,Native,Monomorphic,
+Amblyoponinae,Stigmatomma,Stigmatomma.pallipes,worker,13,Deyrup,19 to 16,Ground,Predator,Native,Monomorphic,
+Amblyoponinae,Stigmatomma,Stigmatomma.pallipes,worker,10,King,,Ground,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.abdita,worker,,,,Ground,Predator,Native,Monomorphic,Very rare
+Myrmicinae,Strumigenys,Strumigenys.angulata,worker,,,,Leaf Litter,Predator,Native,Monomorphic,Very rare
+Myrmicinae,Strumigenys,Strumigenys.apalachicolensis,worker,332,Deyrup,,Leaf Litter,Predator,Native,Monomorphic, (no image of eye available)
+Myrmicinae,Strumigenys,Strumigenys.archboldi,worker,,,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.boltoni,worker,,,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.brevisetosa,worker,,,,Mixed,Predator,Native,Monomorphic, (was pilinasis) (No image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.bunki,worker,40,King,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.carolinensis,worker,,,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.cloydi,worker,50,Deyrup,,Ground,Predator,Native,Monomorphic,Found under log in references within Deyrup
+Myrmicinae,Strumigenys,Strumigenys.clypeata,worker,50,King,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.clypeata,worker,62,?,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.creightoni,worker,34,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.creightoni,worker,50,King,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.dietrichi,worker,50,King,,Ground,Predator,Native,Monomorphic,But from rotten wood…?
+Myrmicinae,Strumigenys,Strumigenys.dietrichi,worker,80,Deyrup,,Ground,Predator,Native,Monomorphic,But from rotten wood…?
+Myrmicinae,Strumigenys,Strumigenys.eggersi,worker,33,Deyrup,"25,  maximum 45",Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.emmae,worker,14,Deyrup and Deyrup (1999) via Antwiki,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.emmae,worker,42,Deyrup and Deyrup (1999) via Antwiki,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.epinotalis,worker,121,Deyrup,,Arboreal,Predator,Nonnative,Monomorphic,Likely diurnal?
+Myrmicinae,Strumigenys,Strumigenys.gundlachi,worker,,,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.hexamera,worker,35,Terayama 2014 via Ant wiki,Up to 50,Ground,Predator,Nonnative,Monomorphic,Monogyne
+Myrmicinae,Strumigenys,Strumigenys.hexamera,worker,50,Deyrup,Up to 50,Ground,Predator,Nonnative,Monomorphic,Monogyne
+Myrmicinae,Strumigenys,Strumigenys.inopina QUEEN ONLY,worker,,,,,,,Monomorphic,"Only known from queen, very rare species"
+Myrmicinae,Strumigenys,Strumigenys.laevinasis,worker,14,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.lanuginosa,worker,,,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.louisianae,worker,118,Deyrup,"usually small, but max 118",Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.margaritae,worker,200,Deyrup,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.margaritae,worker,250,Deyrup,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.membranifera,worker,350,Ito et al. 2010 via Antwiki,up to 350 indiv,Ground,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.membranifera,worker,250,Antwiki,average size,Ground,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.membranifera,worker,93,Deyrup,75-110,Ground,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.missouriensis,worker,48,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.missouriensis,worker,50,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.ornata,worker,20,Wesson & Wesson 1939 via Antwiki,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,56,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,11,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,21,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,38,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,34,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,15,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,32,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,22,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,22,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,24,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,38,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,24,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,45,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,43,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,17,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,30,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,28,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,38,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,49,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,15,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,43,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,11,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,8,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,18,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,12,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,12,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,27,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,28,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,55,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,3,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,30,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,7,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,5,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,16,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pilinasis,worker,52,Doug Booher Collection,,Mixed,Predator,Native,Monomorphic,(was ohioensis) (no image with eye available)
+Myrmicinae,Strumigenys,Strumigenys.pulchella,worker,,,,Mixed,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.reflexa,worker,,,,Mixed,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.rogeri,worker,,,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.rostrata,worker,11,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.rostrata,worker,5,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.rostrata,worker,30,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.rostrata,worker,27,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.rostrata,worker,56,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.rostrata,worker,19,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.silvestrii,worker,,,,Leaf Litter,Predator,Nonnative,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.talpa,worker,60,Wesson & Wesson 1939 via Antwiki,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.talpa,worker,8,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.talpa,worker,121,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.talpa,worker,25,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.talpa,worker,20,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.talpa,worker,50,King,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.talpa,worker,1,Doug Booher Collection,,Leaf Litter,Predator,Native,Monomorphic,
+Myrmicinae,Strumigenys,Strumigenys.wrayi,worker,,,,,Predator,,Monomorphic,(no image with eye available)
+Dolichoderinae,Tapinoma,Tapinoma.litorale,worker,20,Jack Longino via Antwiki,,Ground,Omnivore,Native,Monomorphic,
+Dolichoderinae,Tapinoma,Tapinoma.melanocephalum,worker,,,,Mixed,Omnivore,Nonnative,Monomorphic,
+Dolichoderinae,Tapinoma,Tapinoma.sessile,worker,300,Burchill,,Mixed,Omnivore,Native,Monomorphic,
+Dolichoderinae,Technomyrmex,Technomyrmex.difficilis,worker,,,,Mixed,Omnivore,Nonnative,Monomorphic,Likely very large sizes
+Myrmicinae,Temnothorax,Temnothorax.allardycei,worker,60,Deyrup,,Mixed,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.bradleyi,worker,50,King,,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,48,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,136,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,161,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,179,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,13,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,53,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,76,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,110,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,38,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,31,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,67,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,26,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,35,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,67,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,7,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,6,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,141,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,14,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,28,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,37,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,13,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,71,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,18,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,26,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,30,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,45,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,13,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,5,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,95,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,46,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,162,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,40,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,26,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,25,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,13,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,27,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,50,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,101,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,73,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,26,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,29,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,83,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,46,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,75,Doug Booher Collection,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,84,Burchill,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.curvispinosus,worker,50,Burchill,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.palustris,worker,50,King,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.pergandei,worker,60,Deyrup,20-100,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.pergandei,worker,50,King,,Mixed,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.schaumii,worker,100,Deyrup,100+,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.smithi,worker,31,Smith 1920 via Antwiki,,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.smithi,worker,40,Smith 1920 via Antwiki,,Arboreal,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.texanus,worker,50,King,,Ground,Omnivore,Native,Monomorphic,
+Myrmicinae,Temnothorax,Temnothorax.torrei,worker,,,,Leaf Litter,,Native,Monomorphic,"Very rare, only known from one specimen"
+Myrmicinae,Tetramorium,Tetramorium.bicarinatum,worker,500,Booher,500+ (personal account),Mixed,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Tetramorium,Tetramorium.caldarium,worker,,,,Ground,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Tetramorium,Tetramorium.lanuginosum,worker,,,,Ground,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Tetramorium,Tetramorium.simillimum,worker,300,King,,Ground,Omnivore,Nonnative,Monomorphic,Polygyne
+Myrmicinae,Trachymyrmex,Trachymyrmex.jamaicensis,worker,150,Antwiki,"150+, hardly more than 150",Ground,Specialist,Native,Monomorphic, (Mycetomoellerius jamaicensis)
+Myrmicinae,Trachymyrmex,Trachymyrmex.septentrionalis,worker,194,"Seal, J. N., W. R. Tschinkel. 2006. Ann. Entomol. Soc. Am. 99:673–682.",,Ground,Specialist,Native,Monomorphic,
+Myrmicinae,Trachymyrmex,Trachymyrmex.septentrionalis,worker,800,Burchill,,Ground,Specialist,Native,Monomorphic,
+Myrmicinae,Trachymyrmex,Trachymyrmex.septentrionalis,worker,300,King,,Ground,Specialist,Native,Monomorphic,
+Myrmicinae,Wasmannia,Wasmannia.auropunctata,worker,839,Burchill,,Mixed,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Wasmannia,Wasmannia.auropunctata,worker,800,King,,Mixed,Omnivore,Nonnative,Monomorphic,
+Myrmicinae,Xenomyrmex,Xenomyrmex.floridanus,worker,50,King,,Arboreal,Omnivore,Native,Monomorphic,
