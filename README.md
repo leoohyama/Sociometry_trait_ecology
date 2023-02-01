@@ -1,5 +1,3 @@
-# FL_colony_size_proj
-
 This is the project folder and directory for all R analyses done for the project:
 
 ![](images/image-85604116.png)
